@@ -1,0 +1,43 @@
+# Tor state file last generated on 2026-04-06 09:28:54 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 625 1
+CircuitBuildTimeBin 1115 1
+CircuitBuildTimeBin 1195 1
+CircuitBuildTimeBin 1205 1
+CircuitBuildTimeBin 1805 1
+CircuitBuildTimeBin 2135 1
+CircuitBuildTimeBin 2585 1
+CircuitBuildTimeBin 16585 1
+CircuitBuildTimeBin 21285 1
+CircuitBuildTimeBin 26595 1
+CircuitBuildTimeBin 28115 1
+CircuitBuildTimeBin 28365 1
+CircuitBuildTimeBin 32615 1
+CircuitBuildTimeBin 33775 1
+CircuitBuildTimeBin 34585 1
+Dormant 0
+Guard in=default rsa_id=117286A3F5DF7275F2EB1F28D8AAC72772D84939 nickname=QuakeVISOR sampled_on=2026-03-31T01:03:36 sampled_idx=0 sampled_by=0.4.9.5 listed=1 confirmed_on=2026-03-30T14:27:29 confirmed_idx=0 pb_circ_attempts=6.000000 pb_circ_successes=6.000000 pb_successful_circuits_closed=6.000000
+Guard in=default rsa_id=DF2546A2D6862CF0F3E6C987D6CA3130945A9691 nickname=foolio sampled_on=2026-04-02T00:42:26 sampled_idx=1 sampled_by=0.4.9.5 listed=1 confirmed_on=2026-03-29T21:37:14 confirmed_idx=1 pb_circ_attempts=3.000000 pb_circ_successes=2.000000 pb_successful_circuits_closed=2.000000
+Guard in=default rsa_id=0EA859733751F8E8CECD70E33C9994BB7A04AC10 nickname=prsv sampled_on=2026-04-02T22:48:51 sampled_idx=2 sampled_by=0.4.9.5 listed=1 confirmed_on=2026-03-25T06:56:43 confirmed_idx=2 pb_circ_attempts=1.000000 pb_circ_successes=1.000000 pb_successful_circuits_closed=1.000000
+Guard in=default rsa_id=CDE6F0F6977872319BCFFA14085ED13C0A8DA37C nickname=anarchosyndical2 sampled_on=2026-03-27T09:41:53 sampled_idx=3 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=5A0693F1803C706FF1EDE1D0EB1C7FC08FE8D748 nickname=NTH70R1 sampled_on=2026-03-29T15:14:51 sampled_idx=4 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=1EDE608C5E190C8682A2F827664E758416104670 nickname=W4LS3R sampled_on=2026-03-31T15:41:01 sampled_idx=5 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=5DB9AE27A44EB7B476CC04A66C67A71C97A001E6 nickname=Chenjesu sampled_on=2026-03-29T19:39:05 sampled_idx=6 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=868CCEAF3921B40B1170DF755E764873D143A5E6 nickname=TorAt3906 sampled_on=2026-03-30T15:11:44 sampled_idx=7 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=9C51FA6F456E902E4B73B51AB8FB2E8CEC7B8E06 nickname=sabapivot sampled_on=2026-03-28T00:34:46 sampled_idx=8 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=6ACAECCF578C44EAA16059C3E6C206CFA6933D35 nickname=Unnamed sampled_on=2026-03-29T09:36:29 sampled_idx=9 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=9837525A8645834AC9B5DDE3DB4278672FFAC969 nickname=arribaespana sampled_on=2026-03-25T11:52:17 sampled_idx=10 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=00D90605910979CF1AB0E86D219E6171FB18BD43 nickname=relay1 sampled_on=2026-04-02T17:14:35 sampled_idx=11 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=D151BF6ABF0CB974323A9BDC1FB32E7EE90F27EA nickname=prsv sampled_on=2026-04-03T04:39:44 sampled_idx=12 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=FB54F9C8AE5A3A89FDAFF834DFA9637F22D70C38 nickname=setsun sampled_on=2026-03-31T19:03:14 sampled_idx=13 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=9E806C33AEB62CF2893B0F85D5A810D78ADEA51F nickname=Unnamed sampled_on=2026-04-02T15:24:08 sampled_idx=14 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=F3EB1E1FF45A3CDE4E02FBD4E805D4FC37A4AD56 nickname=teutates sampled_on=2026-03-30T04:18:00 sampled_idx=15 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=15CFFC8B131EB43D101A5FA2DA6C8AA9F8C76D66 nickname=kanye sampled_on=2026-03-29T20:09:35 sampled_idx=16 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=7C781344302E21A6A954D7D794255CFD294D50EE nickname=666Sirocco sampled_on=2026-04-01T22:28:15 sampled_idx=17 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=00B561BEEA07B277892AB3F135099B54F82F450B nickname=prsv sampled_on=2026-04-01T12:30:15 sampled_idx=18 sampled_by=0.4.9.5 listed=1
+Guard in=default rsa_id=32ED1B555FB140D6DB9BF1AFF81C2B66B321D2A8 nickname=Spiegelberg sampled_on=2026-04-03T09:56:05 sampled_idx=19 sampled_by=0.4.9.5 listed=1
+LastWritten 2026-04-06 06:28:54
+TorVersion Tor 0.4.9.5 (git-1442ca4852283d66)
+TotalBuildTimes 15

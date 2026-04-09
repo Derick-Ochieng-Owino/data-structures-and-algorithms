@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 using namespace std;
 
 struct Node{
@@ -21,7 +22,7 @@ int main(){
 }
 
 void enqueue(int value){
-    struct Node *ptr = malloc(sizeof(struct Node));
+    struct Node *ptr =(struct Node*)  malloc(sizeof(struct Node));
     ptr -> data = value;
     ptr -> next = NULL;
 
